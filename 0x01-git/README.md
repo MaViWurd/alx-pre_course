@@ -112,8 +112,8 @@ Using the graphic interface on the [github website](https://alx-intranet.hbtn.io
 -   Public repo
 -   No `README`, `.gitignore`, or license
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220712T135809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=aacf735e64ababa07a8b3cf8d051b725be7b61ffde6c5f9bb488a902f8a6dabc)
+[click to view image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220712T135809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=aacf735e64ababa07a8b3cf8d051b725be7b61ffde6c5f9bb488a902f8a6dabc "click to view image")
 
 **Step 4 - Open the sandbox**
 
-On the intranet, just under the task, click on the button ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/9db8eece71455dfddf4b7d8585c037c535f1d18d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220712T135809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4d163fbd50e74fcbe4aaa9a14dd4956dbe7d500d08f9c4f356f3929776b26a4f) and `run` to start the machine.
+On the intranet, just under the task, click on the button [Get a sandbox](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/9db8eece71455dfddf4b7d8585c037c535f1d18d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220712T135809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4d163fbd50e74fcbe4aaa9a14dd4956dbe7d500d08f9c4f356f3929776b26a4f "Get a sandbox") and `run` to start the machine.
