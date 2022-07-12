@@ -99,3 +99,21 @@ Once it’s created, you should have a token that looks like this:
 **Step 2 - Update your profile on the Intranet**
 
 Update your Intranet profile by adding your Github username [here](https://alx-intranet.hbtn.io/rltoken/vHKiFlBLIC7VCcAWGWF8FA "here")
+If it’s not done **the Checker won’t be able to correct your work**
+
+[click here to view image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/6270480a0a982cd1846b877eda2ee405d2e8f575.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220712T135809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=83bb02258a71174a45a89315f576e5cb700dd304dcd15caf7116693091e5c147 "click here to view image")
+
+**Step 3 - Create your first repository**
+
+Using the graphic interface on the [github website](https://alx-intranet.hbtn.io/rltoken/hQPhGkQBxYfTYTYDKtrZvw "github website"), create your first repository.
+
+-   Name: `alx-pre_course`
+-   Description: `I'm now a ALX Student, this is my first repository as a full-stack engineer`
+-   Public repo
+-   No `README`, `.gitignore`, or license
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220712T135809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=aacf735e64ababa07a8b3cf8d051b725be7b61ffde6c5f9bb488a902f8a6dabc)
+
+**Step 4 - Open the sandbox**
+
+On the intranet, just under the task, click on the button ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/9db8eece71455dfddf4b7d8585c037c535f1d18d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220712T135809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4d163fbd50e74fcbe4aaa9a14dd4956dbe7d500d08f9c4f356f3929776b26a4f) and `run` to start the machine.
