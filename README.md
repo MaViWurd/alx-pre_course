@@ -1,6 +1,6 @@
 # Pre-course - Git, Shell, About Readmes
 
-## DEscription
+## Description
 This repository contains programs written for the pre-course programming and shell .
 
 
