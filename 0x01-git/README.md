@@ -117,3 +117,34 @@ Using the graphic interface on the [github website](https://alx-intranet.hbtn.io
 **Step 4 - Open the sandbox**
 
 On the intranet, just under the task, click on the button [Get a sandbox](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/9db8eece71455dfddf4b7d8585c037c535f1d18d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220712T135809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4d163fbd50e74fcbe4aaa9a14dd4956dbe7d500d08f9c4f356f3929776b26a4f "Get a sandbox") and `run` to start the machine.
+
+Once the container is started, click on [Webtern](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/be9d1fbfb3d97e6924a4d2af7df9290ad7ae77df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220712T135809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=13d864ef5a2661aba0a52e903f52dd4331e5c86824004fdd49cb4aee435f8ae0 "Webtern") to open a shell where you can start work from.
+
+**Step 5 - Clone your repository**
+
+On the webterm of the sandbox, do the following:
+-   Clone your repository
+
+```
+root@896cf839cf9a:/# git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-pre_course.git                  
+Cloning into 'alx-pre_course'...
+warning: You appear to have cloned an empty repository.
+
+```
+**Replace {YOUR_PERSONAL_TOKEN} with your token from step 1**
+**Replace {YOUR_USERNAME} with your username from step 0 and 1**
+
+**Step 6 - Create the README.md and push the modifications**
+
+-   Navigate to this new directory. [Tips](https://alx-intranet.hbtn.io/rltoken/_hv6gkuqwPeF_nefdPygcw "Tips")
+
+```
+root@896cf839cf9a:/# cd alx-pre_course/
+root@896cf839cf9a:/alx-pre_course#
+```
+-   Create the file `README.md` with the content `My first readme`. [Tips](https://alx-intranet.hbtn.io/rltoken/0U_R5Z7fbzEFJ1hXKx4fdQ"Tips")
+```
+root@896cf839cf9a:/alx-pre_course# echo 'My first readme' > README.md                                                                 
+root@896cf839cf9a:/alx-pre_course# cat README.md                                                                                      
+My first readme
+```
