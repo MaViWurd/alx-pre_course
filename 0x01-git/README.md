@@ -83,14 +83,19 @@ Tasks
 mandatory
 
 **Step 0 - Create an account on GitHub [if you do not have one already]**
+
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://alx-intranet.hbtn.io/rltoken/hQPhGkQBxYfTYTYDKtrZvw "here")
+
 **Step 1 - Create a Personal Access Token on Github**
+
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
 
 You can follow [this tutorial](https://alx-intranet.hbtn.io/rltoken/1sEAC5BvAQ1G5VabbAl2iA "this tutorial") to create a token.
 
 Once it’s created, you should have a token that looks like this:
+
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/a449483cd76a72cef1b42df831e686c64faa1cf6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220712T135809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a617ac848d43a42936a03b28f29d28689f3f77b7a9d4649b2584d86a67221178)
 
 **Step 2 - Update your profile on the Intranet**
+
 Update your Intranet profile by adding your Github username [here](https://alx-intranet.hbtn.io/rltoken/vHKiFlBLIC7VCcAWGWF8FA "here")
