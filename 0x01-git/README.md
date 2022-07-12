@@ -1,2 +1,12 @@
-In alx-pre_course Created a directory called 0x01-git
-i've been able to add a lot of directories to this directory 0x01-git
+0x01. Git
+======================
+
+-   By Egbe Marvelous M.
+
+
+Resources
+---------
+
+**Read or watch**:
+
+-   [Resources to learn Git](https://alx-intranet.hbtn.io/rltoken/EC5rb6yWBWllPB-T8rd0SQ "Resources to learn Git")
